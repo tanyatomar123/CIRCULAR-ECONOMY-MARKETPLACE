@@ -1,0 +1,10 @@
+gradio
+scikit-learn
+pandas
+numpy
+joblib
+plotly
+bcrypt
+sqlite3
+requests
+python-dotenv
